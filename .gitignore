@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+*.jpg
+Data/101_ObjectCategories/BACKGROUND_Google/tmp
+Data/valid/BACKGROUND_Google/tmp
+*.gz
+*.tar
