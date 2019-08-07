@@ -107,3 +107,5 @@ Data/101_ObjectCategories/BACKGROUND_Google/tmp
 Data/valid/BACKGROUND_Google/tmp
 *.gz
 *.tar
+vgg16-transfer-4.pt
+vgg16-transfer-4.pth
